@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  const apiRoot = 'https://kodilla-part-2.przemek681.repl.co/v1/tasks';
+  const apiRoot = 'https://kodilla-part-2.przemek681.repl.co/v1/';
   const trelloApiRoot = 'https://kodilla-part-2.przemek681.repl.co/v1/trello';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
